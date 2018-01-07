@@ -55,7 +55,8 @@ training data. There are two ways to generate such training data:
 # CUDA-based Finite Difference Time Domain (FDTD) Simulation
 
 Simulating electromagnetic (or acoustic) waves in a 2D or 3D environment allows
-us to generate data that we can use to train machine learning systems for s.
+us to generate data that we can use to train machine learning systems and/or
+design and optimize measurement devices.
 
 ## Basics
 
