@@ -1,0 +1,11 @@
+.vscode
+dist
+build
+*\#
+user_resources
+*.pyc
+/volumes
+*.egg-info
+*~
+*.LOCAL
+**venv*
